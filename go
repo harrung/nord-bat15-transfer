@@ -519,6 +519,9 @@ allow 2a03:2267:4e6f:7264:62e3:27ff:fe9a:e3ee;
 allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d6ba;
   #FressflashRuftDasKaenguru
   allow 2a03:2267:4e6f:7264:a2f3:c1ff:fe48:d73e;
+  
+#FF-BR-Suomi-01
+allow 2a03:2267:4e6f:7264:f6f2:6dff:fe40:132a;
 
   ####### Unterhalb keine Änderungen durchführen! ###############
   
